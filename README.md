@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Tuong-Khang 👋
+I graduated Computer Science from University of Information Technology. Currently, I'm focussing CV (means Computer Vision), especially Medical Images.  
+I'm best reached via [email](khangdltuit@gmail.com). I'm always open to interesting conversations and collaboration.
 
 <!--
 **tuong-khang/tuong-khang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
